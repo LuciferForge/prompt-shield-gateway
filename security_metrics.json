@@ -1,0 +1,14 @@
+{
+  "total_scans": 1420,
+  "attacks_blocked": 184,
+  "jailbreaks_neutralized": 96,
+  "excessive_agency_prevented": 88,
+  "owasp_compliance_score": "100%",
+  "avg_proxy_latency_ms": 0.11,
+  "last_attack_blocked": {
+    "timestamp": "2026-08-04 08:04:12 UTC",
+    "pattern": "ignore previous instructions",
+    "threat_level": "HIGH",
+    "action": "BLOCKED & LOGGED"
+  }
+}
